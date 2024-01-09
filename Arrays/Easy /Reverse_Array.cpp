@@ -36,7 +36,7 @@ int main()
     for (int i = 0; i < size; i++)
         cout << arr[i] << " ";
 
-    delete[] arr;
+    // delete[] arr;
 
     return 0;
 }
