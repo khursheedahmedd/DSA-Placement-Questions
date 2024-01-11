@@ -33,7 +33,7 @@ int main()
         cin >> arr[i];
     }
 
-    // maxAndMin(arr, size);
+    maxAndMin(arr, size);
 
     delete[] arr;
 
