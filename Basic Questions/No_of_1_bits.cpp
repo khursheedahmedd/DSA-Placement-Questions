@@ -17,14 +17,14 @@ int hammingWeight(uint32_t n)
     return count;
 }
 
-int main()
-{
-    uint32_t num;
+// int main()
+// {
+//     uint32_t num;
 
-    cout << "\nEnter a number: ";
-    cin >> num;
+//     cout << "\nEnter a number: ";
+//     cin >> num;
 
-    cout << "\nNumber of 1 bits are: " << hammingWeight(num);
+//     cout << "\nNumber of 1 bits are: " << hammingWeight(num);
 
-    return 0;
-}
+//     return 0;
+// }
