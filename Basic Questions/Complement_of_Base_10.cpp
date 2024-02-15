@@ -16,7 +16,7 @@ int Complement(int n)
         m = m >> 1;
     }
     return (~n) & k;
-}
+} 
 
 int main()
 {
